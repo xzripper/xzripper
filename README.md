@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xzripper&&show_icons=true&theme=radical"></p>
+<br>
 <h1>🌈 Hello, my name is Ivan! And i 💖 code! 🌈</h1>
 <h2>I am not working.</h2>
 <h3>Here my languages.
@@ -23,3 +25,11 @@
 🟢 Belarusian 🟢
 <br>
 </h5>
+<p>Languages using percent.</p>
+<ul>
+  <li>Python - 40%,</li>
+  <li>Lua - 20%,</li>
+  <li>Golang - 10%,</li>
+  <li>Java - 30%.</li>
+</ul>
+<p>Bye!</p>
