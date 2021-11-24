@@ -1,4 +1,5 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xzripper&&show_icons=true&theme=radical"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzripper&langs_count=9"></p>
 <br>
 <h1>🌈 Hello, my name is Ivan! And i 💖 code! 🌈</h1>
 <h2>I am not working.</h2>
