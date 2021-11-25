@@ -33,4 +33,5 @@
   <li>Golang - 10%,</li>
   <li>Java - 30%.</li>
 </ul>
-<p>Bye!</p>
+<hr>
+<p align="center">Bye!</p>
