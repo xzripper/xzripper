@@ -1049,5 +1049,10 @@ public class StringParser {
 }
 ```
 
+## End.
+**Thank you for reading, have a good day, bye!**
+<br>
+<br>
+
 <hr>
 <p align="center">Bye!</p>
