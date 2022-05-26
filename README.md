@@ -13,6 +13,7 @@
 <br>
 ☕ Java ☕.
 <br>
+🦀 Rust 🦀
 </h3>
 <h4>My <a href='https://t.me/dieeid/'>Telegram</a>.</h4>
 <h5>Languages i know.
@@ -31,7 +32,8 @@
   <li>Python - 40%,</li>
   <li>Lua - 20%,</li>
   <li>Golang - 10%,</li>
-  <li>Java - 30%.</li>
+  <li>Java - 10%.</li>
+  <li>Rust - 20%</li>
 </ul>
 <h1>Some source code!</h1>
 <p>Here some source code, which on my mind the best in my repositories!</p>
