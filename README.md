@@ -1,1 +1,1 @@
-happy to work with somebody in the project
+happy to work with somebody on the project
