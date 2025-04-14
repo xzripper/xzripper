@@ -15,4 +15,4 @@
 - 🇺🇸 **American English**
 - 🇳🇴 **Norwegian**
 
-**UPD: On my well-deserved holiday 😊🏖️🌊**
+**UPD: I'm on my well-deserved holiday 😊🏖️🌊**
