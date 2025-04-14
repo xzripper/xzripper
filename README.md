@@ -14,3 +14,5 @@
 - 🇵🇱 **Polish**
 - 🇺🇸 **American English**
 - 🇳🇴 **Norwegian**
+
+**UPD: On my well-deserved holiday 😊🏖️🌊**
