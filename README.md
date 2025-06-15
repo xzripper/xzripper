@@ -1,1 +1,1 @@
-kinda retired
+no longer active
